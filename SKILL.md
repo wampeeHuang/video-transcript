@@ -1,5 +1,6 @@
 ---
 name: video-transcript
+category: 写作与文档
 description: |
   把视频转成干净的转写文案（mm:ss 句式，一句一行）。按字幕来源走三条分支：软字幕直读（B站 CC 字幕 / SRT / ASS 独立字幕轨）、硬字幕 OCR（字幕烧死在画面里）、音频 ASR（无字幕有旁白，whisper）。
 
